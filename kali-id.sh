@@ -192,4 +192,4 @@ echo
 clear
 rm lol.txt
 echo
-./kali-start.sh
+./start-kali.sh
