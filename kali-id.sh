@@ -44,7 +44,7 @@ echo
 sleep 0.4
 echo $b "     { ============= }    "
 sleep 0.4
-echo $cyan"       YT : T1T4N TZY   "
+echo $cyan"       YT : Pejuang TZY  "
 sleep 0.4
 echo $b "     { ============= }    "
 echo
@@ -140,7 +140,7 @@ echo
 sleep 0.4
 echo $b "          { ============= }    "
 sleep 0.4
-echo $cyan"            YT : T1T4N TZY   "
+echo $cyan"            YT : Pejuang TZY  "
 sleep 0.4
 echo $b "          { ============= }    "
 echo
